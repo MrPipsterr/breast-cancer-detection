@@ -1,3 +1,3 @@
 # breast-cancer-detection
 
-a simple machine learning study case using logistic regression classificasion model.
+a basic machine learning study case using logistic regression classification model.
